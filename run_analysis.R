@@ -1,5 +1,5 @@
 # set location of input/output
-setwd("C:/Users/Edwin van Stein/Desktop/Edwin")
+setwd("C:/Users/Yourname/Desktop/Dir")
 
 # read in data
 subject_train <- read.table("subject_train.txt")
